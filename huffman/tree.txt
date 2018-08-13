@@ -1,0 +1,16 @@
+
+x x x 36
+x g h 15
+g 0 0 7
+h 0 0 8
+x x x 21
+x d e 9
+d 0 0 4
+e 0 0 5
+x f x 12
+f 0 0 6
+x c x 6
+c 0 0 3
+x a b 3
+a 0 0 1
+b 0 0 2
